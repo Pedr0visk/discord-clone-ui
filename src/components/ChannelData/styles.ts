@@ -14,7 +14,6 @@ export const Messages = styled.div`
   padding: 20px 0;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
   max-height: calc(100vh - 46px - 68px);
   overflow-y: scroll;
 
